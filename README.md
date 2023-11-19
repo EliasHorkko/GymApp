@@ -7,13 +7,11 @@ GymApp is a comprehensive mobile application developed as a part of the Mobile P
 ### Key Features
 
 - **Gyms**: Utilizes Google Places API to locate and display the top 10 nearest gyms based on the user's current location. Each gym listing includes details like name, address, and user ratings.
-- **Map View**: Integrates a map feature that shows the exact location of the gyms, enhancing the user's ability to find gyms conveniently.
-- **Workout Tracker**: Allows users to log and track their workouts, providing a personalized fitness experience.
-- **Calendar**: A built-in calendar to help users plan and manage their workout schedules effectively.
+- **Map View**: Integrates a map feature that shows the exact location of the gyms, enhancing the user's ability to find gyms conveniently, navigate, and go to the gym's website.
+- **Workout**: Allows users to find workouts, providing a personalized fitness experience.
+- **Calendar**: A built-in calendar to help users plan and manage their workout schedules effectively and save them.
 
 ### Screenshots
-
-(Here, you can add screenshots of your app. Use Markdown image syntax or HTML tags. For example:)
 
 ![Gyms Screen](./assets/img/IMG_8132.png)
 ![Map View](./assets/img/IMG_8133.png)
@@ -27,6 +25,8 @@ GymApp is a comprehensive mobile application developed as a part of the Mobile P
 - **React Native**: Chosen for cross-platform mobile app development, enabling a unified experience on both iOS and Android devices.
 - **Expo**: An open-source platform used to expedite the development process in React Native.
 - **Google Places API**: For fetching real-time data about gym locations and details.
+- **ExerciseDB API**: For a vast exercise library.
+- **Firestore** for robust data management and synchronization.
 
 ## Installation and Usage
 
@@ -42,5 +42,4 @@ This project is a part of the "Mobile Programming" course, a key module in the 4
 
 
 ## Author
-
 ### Elias Hörkkö

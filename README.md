@@ -13,12 +13,11 @@ GymApp is a comprehensive mobile application developed as a part of the Mobile P
 
 ### Screenshots
 
-![Gyms Screen](./assets/img/IMG_8132.png)
-![Map View](./assets/img/IMG_8133.png)
-![Workout](./assets/img/IMG_8134.png)
-![Workout Details](./assets/img/IMG_8135.png)
-![Calendar](./assets/img/IMG_8136.png)
-
+![Gyms Screen](https://github.com/EliasHorkko/GymApp/raw/577d2a8fe00223b8374af808c752157d17969d42/assets/img/IMG_8132.PNG)
+![Map View](https://github.com/EliasHorkko/GymApp/raw/577d2a8fe00223b8374af808c752157d17969d42/assets/img/IMG_8133.PNG)
+![Workout](https://github.com/EliasHorkko/GymApp/raw/577d2a8fe00223b8374af808c752157d17969d42/assets/img/IMG_8134.PNG)
+![Workout Details](https://github.com/EliasHorkko/GymApp/raw/577d2a8fe00223b8374af808c752157d17969d42/assets/img/IMG_8135.PNG)
+![Calendar](https://github.com/EliasHorkko/GymApp/raw/577d2a8fe00223b8374af808c752157d17969d42/assets/img/IMG_8136.PNG)
 
 
 ## Technologies Used
